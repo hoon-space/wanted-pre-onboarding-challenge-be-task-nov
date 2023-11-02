@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f2ceae945a7c5256",
+    "type": "split",
+    "children": [
+      {
+        "id": "453c0060e3e1123a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd075714c7e16900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5번 문제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43f4df565922d3cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebff70efabd0569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416a091e4f3d7ff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37edefa93bdd1078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a68fa53f3d34f5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3acd6c3381d54ef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7ff92e2946bed11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02c0dac8bf750bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5번 문제.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2ffaad285d88ce3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5번 문제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bdbde134d3b9c39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c83b5902082a7394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5번 문제.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "cd075714c7e16900",
+  "lastOpenFiles": [
+    "README.md",
+    "5번 문제.md",
+    "4번 문제.md",
+    "3번 문제.md",
+    "2번 문제.md",
+    "1번 문제.md"
+  ]
+}
